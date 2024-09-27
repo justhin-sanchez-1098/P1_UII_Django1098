@@ -9,9 +9,9 @@ configuraciones basicas para trabajar con el frameworb de Django
 - 6 crear el entorno de trabajo -->  py -3 -m venv .venv
 - 7 activar el entorno m-->  .venv\scripts\activate.bat
 - 8 seleccionar interprete de python --> presione F1
-- 9 actualizar pio -->  python -m pip install --upgrade pip
+- 9 actualizar pip -->  python -m pip install --upgrade pip
 - 10 instalar django --> python -m pip install django
-- 11 creando el proyecto --> django-admin startproject web_project .
+- 11 creando el proyecto --> django-admin startproject webtacos_proy .
 - 12 realizar migracion al proyecto --> python manage.py migrate
 - 13 ejecutar servidor --> python manage.py migrate
 me trabajo el proyecto 
