@@ -13,5 +13,5 @@ configuraciones basicas para trabajar con el frameworb de Django
 - 10 instalar django --> python -m pip install django
 - 11 creando el proyecto --> django-admin startproject webtacos_proy .
 - 12 realizar migracion al proyecto --> python manage.py migrate
-- 13 ejecutar servidor --> python manage.py migrate
+- 13 ejecutar servidor --> python manage.py runserver
 me trabajo el proyecto 
