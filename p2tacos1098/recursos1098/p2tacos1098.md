@@ -1,0 +1,14 @@
+- crear aplicacion medinaclase_app
+- comando --> python manage.py startapp medinaclase_app
+- creamos el archivo urls.py en medina_app
+- ![alt text](image-1.png)
+- en setting.py de p2tacos1098
+- ![alt text](image-2.png)
+- en urls.py de p2tacos1098
+- ![alt text](image.png)
+- en urls.py en medinaclase_app
+- ![alt text](image-3.png)
+- en views.py en medinaclase_app
+- ![alt text](image-4.png)
+- en urls.py en medinaclase_app
+- ![alt text](image-5.png)
